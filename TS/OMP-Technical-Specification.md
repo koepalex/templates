@@ -33,7 +33,7 @@ DELETE THIS COMMENT
       <td>"Key words for use in RFCs to Indicate Requirement Levels", S. Bradner, March 1997, URL:http://www.ietf.org/rfc/rfc2119.txt</td>
     </tr>
     <tr>
-      <td><strong>[RFC4234]</strong></td>
+      <td><strong>[RFC5234]</strong></td>
       <td>"Augmented BNF for Syntax Specifications: ABNF", D. Crocker, Ed., P. Overell, Janury 2008, URL: https://tools.ietf.org/rfc/rfc5234.txt</td>
     </tr>
   </tbody>
