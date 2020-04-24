@@ -1,7 +1,7 @@
 ## Scope
 
 ```
-Define as it relates to Open Manufacturing Platform Activity.  If it adds clarity, define what is not in the scope.  DELETE THIS COMMENT 
+Define as it relates to Open Manufacturing Platform Activity. If it adds clarity, define what is not in the scope. DELETE THIS COMMENT 
 ```
 
 ## References
@@ -9,18 +9,18 @@ Define as it relates to Open Manufacturing Platform Activity.  If it adds clarit
 
 ```
 The policy for reference lists is:
-1.	OMP documents listed should have at least one approved version – draft-only docs should not be referenced.
+1. OMP documents listed should have at least one approved version – draft-only docs should not be referenced.
 Exception exists for documents that will be approved with or after the referenced doc is approved (may be part of same enabler package).  In short – approved docs should not reference unapproved docs.
-2.	When a reference is made to an OMP specification, then Open Manufacturing Platform with the TM symbol (™) should 
+2. When a reference is made to an OMP specification, then Open Manufacturing Platform with the TM symbol (™) should 
 be used in the description.
-3.	The name + version (no date) for OMP specifications are generally sufficient – dates should be used only if there is a specific reason to limit the usage.
-4.	References to other affiliate docs should similarly provide sufficient information to uniquely determine the needed document and should provide the appropriate source information.
+3. The name + version (no date) for OMP specifications are generally sufficient – dates should be used only if there is a specific reason to limit the usage.
+4. References to other affiliate docs should similarly provide sufficient information to uniquely determine the needed document and should provide the appropriate source information.
 5.	The URL for OMP material (new OMP and affiliate) should always be http://www.openmanufacturingplatform.org.
     
 Models to use
 	[REFLABEL]	<General Model> "Ref Title", Ref information (source, date, id), URL:http//<ref-source>/ 
 	[OMPDOC]	<OMP Model> "OMP Document Title",{ Version x.y,} Open Manufacturing Platform™, OMP <docname>{ <version>}, 
-                URL:http//www.openmobilealliance.org/ 
+    URL:http//www.openmobilealliance.org/ 
 
 If there are no entries in the table – enter ‘none’ to be clear.
 
@@ -47,8 +47,8 @@ Add/Remove reference rows as needed - DELETE This Row
 ### Informative References
 
 ```
-Check the version of the Dictionary you are using and update the reference below.  Delete the [OMPDICT] entry if 
-the dictionary is not used.  In general, use the latest available version unless seeking alignment with an 
+Check the version of the Dictionary you are using and update the reference below. Delete the [OMPDICT] entry if 
+the dictionary is not used. In general, use the latest available version unless seeking alignment with an 
 existing set of specifications.
 
 DELETE THIS COMMENT
@@ -81,8 +81,8 @@ If needed, describe or declare using appropriate normative references the additi
 ### Definitions
 
 ```
-Add definitions in new rows of the following table as needed.  The following examples show how dictionary references should be made 
-as well as locally defined terms.  This table should be maintained in sorted alphabetic order based on the labels of the terms.
+Add definitions in new rows of the following table as needed. The following examples show how dictionary references should be made 
+as well as locally defined terms. This table should be maintained in sorted alphabetic order based on the labels of the terms.
 
 Examples:
 	Entity              Use definition #1 from [OMPDICT]
@@ -114,7 +114,7 @@ Kindly consult [OMPDICT] for more definitions used in this document.
 ### Abbreviations
 
 ```
-Add abbreviations as needed.  No special notation should be made regarding terms copied from the Dictionary.  
+Add abbreviations as needed. No special notation should be made regarding terms copied from the Dictionary.  
 The list should be maintained in alphabetic order. DELETE This Row
 ```
 
@@ -143,7 +143,7 @@ DELETE THIS COMMENT
 
 ```
 This section provides a high level, concise and informative description of the main functionality supported in 
-the initial version of the specification.  The description should be brief, target length should be a few paragraphs. 
+the initial version of the specification. The description should be brief, target length should be a few paragraphs. 
 When the enabler or reference release is finished, this description should be aligned with the final functionality. 
 
 DELETE THIS COMMENT
@@ -154,7 +154,7 @@ DELETE THIS COMMENT
 ```
 This section should be included for each new major or minor version of the specification.
 
-It should provide a high level, concise and informative description of the new or modified functionality introduced in this version of the specification, compared to the previous version.  The description should be brief, target length should be a few paragraphs.  When the enabler or reference release is finished, this description should be 
+It should provide a high level, concise and informative description of the new or modified functionality introduced in this version of the specification, compared to the previous version. The description should be brief, target length should be a few paragraphs. When the enabler or reference release is finished, this description should be 
 aligned with the final functionality differences.
 
 DELETE THIS COMMENT
@@ -163,7 +163,7 @@ DELETE THIS COMMENT
 #### Version (x.y.z)
 
 ```
-This section should be included for each new service release of the specification.   It should describe at a high level the main changes made to the specification compared to the previous version.  The description should be brief, target length should be one paragraph.
+Service indicator (z) for the document. Incremented every time a corrective update is made to the approved document version by the WG. It should describe at a high level the main changes made to the specification compared to the previous version. The description should be brief, target length should be one paragraph.
 
 DELETE THIS COMMENT
 ```
@@ -171,7 +171,7 @@ DELETE THIS COMMENT
 ## Sections As Needed
 
 ```
-Sections for the normative specification text.  Fill in as needed.  The following validates the styles used for the headers.  DELETE THIS COMMENT 
+Sections for the normative specification text. Fill in as needed. The following validates the styles used for the headers. DELETE THIS COMMENT 
 ```
 
 ### Example Level 2
