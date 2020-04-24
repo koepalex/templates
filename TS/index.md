@@ -1,11 +1,11 @@
 ---
-title: "[Name of Specification]"
+title: "[OMP-XX-Name of Specification]"
 status: "Draft"
 version: "x.y.z"
 date: "yyyy-mm-dd"
 documentName: "OMP-TS-[FunctionalName]-Vx_y_z-yyyymmdd-D"
 files:
- - OMA-Technical-Specification.md
+ - OMP-Technical-Specification.md
  - Appendix_A.md
 ---
 
